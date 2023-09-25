@@ -1,15 +1,4 @@
-=== Portfoilo with dynamic style  ===
-
-Tags: wordpress 
-Requires at least: 4.5
-Tested up to: 6.3
-Stable tag: 4.1.0
-License: GPLv3 or later
-
-== Description ==
  
-**Appointment booking** gives you the ability set portfolio with two designs and different style for every Single Portfolio.  
-
 Features of **Appointment booking** plugin:
 
 1. Admin can setup Simple Portfolio view or Colourful with title and description.
