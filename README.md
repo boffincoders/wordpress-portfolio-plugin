@@ -9,14 +9,12 @@ Features of **Boffin Portfolio Plugin** plugin:
  
 == Installation ==
 
-#### Manually #####
+### Manually ####
 
 1. Upload the 'boffin-portfolio' folder to the /wp-content/plugins/ directory. 
 2. Activate the plugin through the 'Plugins' menu in WordPress. 
 3. Visit the  'Portfolio' menu.
-   
-### OR ###
-
+#### OR ####
 go admin->plugins->add New [botton on top] -> Upload Plugin [Button] and Activate
 
 
