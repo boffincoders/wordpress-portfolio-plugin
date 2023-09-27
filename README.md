@@ -4,7 +4,7 @@ Features of **Boffin Portfolio Plugin** plugin:
 1. Admin can setup Simple Portfolio view or Colourful with title and description.
 2. Admin can setup Links to Portfolios. 
 3. Admin can setup unlimited categories and Portfolios.
-4. Admin can setup coloration for Title, Description, Portfolio background (Unique) and for Filter buttons by settings.
+4. Admin can setup colouration for Title, Description, Portfolio background (Unique) and for Filter buttons by settings.
  
  
 == Installation ==
