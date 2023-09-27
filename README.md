@@ -13,6 +13,6 @@ Features of **Boffin Portfolio Plugin** plugin:
 
 1. Upload the portfolio/ folder to the /wp-content/plugins/ directory. 
 2. Activate the plugin through the 'Plugins' menu in WordPress. 
-3. Visit the  'Appointment' menu.
+3. Visit the  'Portfolio' menu.
 
  
