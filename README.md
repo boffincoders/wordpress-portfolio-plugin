@@ -19,4 +19,9 @@ Features of **Boffin Portfolio Plugin** plugin:
 
 go admin->plugins->add New [botton on top] -> Upload Plugin [Button] and Activate
 
+
+## Example
+
+ ![alt text](https://raw.githubusercontent.com/boffincoders/wordpress-posts-filter/main/filter_posts.png)
+
  
